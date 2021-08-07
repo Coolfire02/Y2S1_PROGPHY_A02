@@ -1,0 +1,8 @@
+﻿  GameObject.cpp
+C:\Users\tanyo\Y2S1_PROGPHY_A02\DM2212_Physics\Physics\Source\GameObject.cpp(80,7): warning C4552: '+': result of expression not used
+  Generating code
+  193 of 634 functions (30.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    86 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Physics.vcxproj -> C:\Users\tanyo\Y2S1_PROGPHY_A02\DM2212_Physics\Release\Physics.exe

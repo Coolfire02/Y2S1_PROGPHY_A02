@@ -1,0 +1,9 @@
+bin/
+.vs/
+*.opensdf
+*.sdf
+*.opendb
+*.opensdf
+*.suo
+*.user
+ipch/
